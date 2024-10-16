@@ -5,6 +5,7 @@
 
 
 A simple command-line address book application written in Go. This program allows users to add, list, and delete contacts, making it easy to manage personal contact information.
+and this is my first Go program ...
 
 ## Features
 
