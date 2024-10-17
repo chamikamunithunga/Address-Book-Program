@@ -13,3 +13,13 @@ and this is my first Go program ...
 - List all stored contacts.
 - Delete a contact by its index.
 - User-friendly command-line interface.
+
+
+# Concurrent Worker Pool in Go
+This project implements a concurrent worker pool using Go, allowing multiple tasks to be processed by a set of workers concurrently. The project demonstrates efficient task distribution using Goroutines and Channels, showcasing Go's concurrency capabilities.
+
+## Features
+Concurrent task processing using a pool of workers
+Task distribution and load balancing via channels
+Synchronization using sync.WaitGroup to ensure all tasks are completed
+Configurable number of workers and tasks
